@@ -1,0 +1,1730 @@
+[
+  {
+    "instance_id": 0,
+    "cell_type": "sky130_fd_sc_hd__clkbuf_4",
+    "pins": {
+      "X": {
+        "position": [
+          99.59,
+          72.25
+        ],
+        "layer_name": "li1",
+        "layer_num": 67
+      },
+      "A": {
+        "position": [
+          98.21,
+          71.57
+        ],
+        "layer_name": "li1",
+        "layer_num": 67
+      },
+      "VGND": {
+        "position": [
+          97.75,
+          70.72
+        ],
+        "layer_name": "met1",
+        "layer_num": 68
+      },
+      "VPWR": {
+        "position": [
+          97.75,
+          73.44
+        ],
+        "layer_name": "met1",
+        "layer_num": 68
+      },
+      "VPB": {
+        "position": [
+          97.75,
+          73.44
+        ],
+        "layer_name": "nwell",
+        "layer_num": 64
+      },
+      "VNB": {
+        "position": [
+          97.75,
+          70.72
+        ],
+        "layer_name": "nwell",
+        "layer_num": 64
+      }
+    }
+  },
+  {
+    "instance_id": 1,
+    "cell_type": "sky130_fd_sc_hd__clkbuf_8",
+    "pins": {
+      "X": {
+        "position": [
+          98.67,
+          74.63
+        ],
+        "layer_name": "li1",
+        "layer_num": 67
+      },
+      "A": {
+        "position": [
+          102.35,
+          75.31
+        ],
+        "layer_name": "li1",
+        "layer_num": 67
+      },
+      "VGND": {
+        "position": [
+          102.35,
+          76.16
+        ],
+        "layer_name": "met1",
+        "layer_num": 68
+      },
+      "VPWR": {
+        "position": [
+          102.35,
+          73.44
+        ],
+        "layer_name": "met1",
+        "layer_num": 68
+      },
+      "VPB": {
+        "position": [
+          102.35,
+          73.44
+        ],
+        "layer_name": "nwell",
+        "layer_num": 64
+      },
+      "VNB": {
+        "position": [
+          102.35,
+          76.16
+        ],
+        "layer_name": "nwell",
+        "layer_num": 64
+      }
+    }
+  },
+  {
+    "instance_id": 2,
+    "cell_type": "sky130_fd_sc_hd__clkbuf_8",
+    "pins": {
+      "X": {
+        "position": [
+          150.19,
+          224.57
+        ],
+        "layer_name": "li1",
+        "layer_num": 67
+      },
+      "A": {
+        "position": [
+          146.51,
+          223.89
+        ],
+        "layer_name": "li1",
+        "layer_num": 67
+      },
+      "VGND": {
+        "position": [
+          146.51,
+          223.04
+        ],
+        "layer_name": "met1",
+        "layer_num": 68
+      },
+      "VPWR": {
+        "position": [
+          146.51,
+          225.76
+        ],
+        "layer_name": "met1",
+        "layer_num": 68
+      },
+      "VPB": {
+        "position": [
+          146.51,
+          225.76
+        ],
+        "layer_name": "nwell",
+        "layer_num": 64
+      },
+      "VNB": {
+        "position": [
+          146.51,
+          223.04
+        ],
+        "layer_name": "nwell",
+        "layer_num": 64
+      }
+    }
+  },
+  {
+    "instance_id": 3,
+    "cell_type": "sky130_fd_sc_hd__clkbuf_8",
+    "pins": {
+      "X": {
+        "position": [
+          147.43,
+          177.99
+        ],
+        "layer_name": "li1",
+        "layer_num": 67
+      },
+      "A": {
+        "position": [
+          151.11,
+          178.67
+        ],
+        "layer_name": "li1",
+        "layer_num": 67
+      },
+      "VGND": {
+        "position": [
+          151.11,
+          179.52
+        ],
+        "layer_name": "met1",
+        "layer_num": 68
+      },
+      "VPWR": {
+        "position": [
+          151.11,
+          176.8
+        ],
+        "layer_name": "met1",
+        "layer_num": 68
+      },
+      "VPB": {
+        "position": [
+          151.11,
+          176.8
+        ],
+        "layer_name": "nwell",
+        "layer_num": 64
+      },
+      "VNB": {
+        "position": [
+          151.11,
+          179.52
+        ],
+        "layer_name": "nwell",
+        "layer_num": 64
+      }
+    }
+  },
+  {
+    "instance_id": 4,
+    "cell_type": "sky130_fd_sc_hd__clkbuf_4",
+    "pins": {
+      "X": {
+        "position": [
+          157.55,
+          224.57
+        ],
+        "layer_name": "li1",
+        "layer_num": 67
+      },
+      "A": {
+        "position": [
+          158.93,
+          223.89
+        ],
+        "layer_name": "li1",
+        "layer_num": 67
+      },
+      "VGND": {
+        "position": [
+          159.39,
+          223.04
+        ],
+        "layer_name": "met1",
+        "layer_num": 68
+      },
+      "VPWR": {
+        "position": [
+          159.39,
+          225.76
+        ],
+        "layer_name": "met1",
+        "layer_num": 68
+      },
+      "VPB": {
+        "position": [
+          159.39,
+          225.76
+        ],
+        "layer_name": "nwell",
+        "layer_num": 64
+      },
+      "VNB": {
+        "position": [
+          159.39,
+          223.04
+        ],
+        "layer_name": "nwell",
+        "layer_num": 64
+      }
+    }
+  },
+  {
+    "instance_id": 5,
+    "cell_type": "sky130_fd_sc_hd__clkbuf_8",
+    "pins": {
+      "X": {
+        "position": [
+          160.77,
+          226.95
+        ],
+        "layer_name": "li1",
+        "layer_num": 67
+      },
+      "A": {
+        "position": [
+          157.09,
+          227.63
+        ],
+        "layer_name": "li1",
+        "layer_num": 67
+      },
+      "VGND": {
+        "position": [
+          157.09,
+          228.48
+        ],
+        "layer_name": "met1",
+        "layer_num": 68
+      },
+      "VPWR": {
+        "position": [
+          157.09,
+          225.76
+        ],
+        "layer_name": "met1",
+        "layer_num": 68
+      },
+      "VPB": {
+        "position": [
+          157.09,
+          225.76
+        ],
+        "layer_name": "nwell",
+        "layer_num": 64
+      },
+      "VNB": {
+        "position": [
+          157.09,
+          228.48
+        ],
+        "layer_name": "nwell",
+        "layer_num": 64
+      }
+    }
+  },
+  {
+    "instance_id": 6,
+    "cell_type": "sky130_fd_sc_hd__clkbuf_4",
+    "pins": {
+      "X": {
+        "position": [
+          129.95,
+          248.71
+        ],
+        "layer_name": "li1",
+        "layer_num": 67
+      },
+      "A": {
+        "position": [
+          128.57,
+          249.39
+        ],
+        "layer_name": "li1",
+        "layer_num": 67
+      },
+      "VGND": {
+        "position": [
+          128.11,
+          250.24
+        ],
+        "layer_name": "met1",
+        "layer_num": 68
+      },
+      "VPWR": {
+        "position": [
+          128.11,
+          247.52
+        ],
+        "layer_name": "met1",
+        "layer_num": 68
+      },
+      "VPB": {
+        "position": [
+          128.11,
+          247.52
+        ],
+        "layer_name": "nwell",
+        "layer_num": 64
+      },
+      "VNB": {
+        "position": [
+          128.11,
+          250.24
+        ],
+        "layer_name": "nwell",
+        "layer_num": 64
+      }
+    }
+  },
+  {
+    "instance_id": 7,
+    "cell_type": "sky130_fd_sc_hd__clkbuf_8",
+    "pins": {
+      "X": {
+        "position": [
+          118.45,
+          251.77
+        ],
+        "layer_name": "li1",
+        "layer_num": 67
+      },
+      "A": {
+        "position": [
+          122.13,
+          251.09
+        ],
+        "layer_name": "li1",
+        "layer_num": 67
+      },
+      "VGND": {
+        "position": [
+          122.13,
+          250.24
+        ],
+        "layer_name": "met1",
+        "layer_num": 68
+      },
+      "VPWR": {
+        "position": [
+          122.13,
+          252.96
+        ],
+        "layer_name": "met1",
+        "layer_num": 68
+      },
+      "VPB": {
+        "position": [
+          122.13,
+          252.96
+        ],
+        "layer_name": "nwell",
+        "layer_num": 64
+      },
+      "VNB": {
+        "position": [
+          122.13,
+          250.24
+        ],
+        "layer_name": "nwell",
+        "layer_num": 64
+      }
+    }
+  },
+  {
+    "instance_id": 8,
+    "cell_type": "sky130_fd_sc_hd__clkbuf_4",
+    "pins": {
+      "X": {
+        "position": [
+          116.61,
+          251.77
+        ],
+        "layer_name": "li1",
+        "layer_num": 67
+      },
+      "A": {
+        "position": [
+          115.23,
+          251.09
+        ],
+        "layer_name": "li1",
+        "layer_num": 67
+      },
+      "VGND": {
+        "position": [
+          114.77,
+          250.24
+        ],
+        "layer_name": "met1",
+        "layer_num": 68
+      },
+      "VPWR": {
+        "position": [
+          114.77,
+          252.96
+        ],
+        "layer_name": "met1",
+        "layer_num": 68
+      },
+      "VPB": {
+        "position": [
+          114.77,
+          252.96
+        ],
+        "layer_name": "nwell",
+        "layer_num": 64
+      },
+      "VNB": {
+        "position": [
+          114.77,
+          250.24
+        ],
+        "layer_name": "nwell",
+        "layer_num": 64
+      }
+    }
+  },
+  {
+    "instance_id": 9,
+    "cell_type": "sky130_fd_sc_hd__clkbuf_8",
+    "pins": {
+      "X": {
+        "position": [
+          123.51,
+          248.71
+        ],
+        "layer_name": "li1",
+        "layer_num": 67
+      },
+      "A": {
+        "position": [
+          119.83,
+          249.39
+        ],
+        "layer_name": "li1",
+        "layer_num": 67
+      },
+      "VGND": {
+        "position": [
+          119.83,
+          250.24
+        ],
+        "layer_name": "met1",
+        "layer_num": 68
+      },
+      "VPWR": {
+        "position": [
+          119.83,
+          247.52
+        ],
+        "layer_name": "met1",
+        "layer_num": 68
+      },
+      "VPB": {
+        "position": [
+          119.83,
+          247.52
+        ],
+        "layer_name": "nwell",
+        "layer_num": 64
+      },
+      "VNB": {
+        "position": [
+          119.83,
+          250.24
+        ],
+        "layer_name": "nwell",
+        "layer_num": 64
+      }
+    }
+  },
+  {
+    "instance_id": 10,
+    "cell_type": "sky130_fd_sc_hd__clkbuf_8",
+    "pins": {
+      "X": {
+        "position": [
+          112.01,
+          205.19
+        ],
+        "layer_name": "li1",
+        "layer_num": 67
+      },
+      "A": {
+        "position": [
+          108.33,
+          205.87
+        ],
+        "layer_name": "li1",
+        "layer_num": 67
+      },
+      "VGND": {
+        "position": [
+          108.33,
+          206.72
+        ],
+        "layer_name": "met1",
+        "layer_num": 68
+      },
+      "VPWR": {
+        "position": [
+          108.33,
+          204.0
+        ],
+        "layer_name": "met1",
+        "layer_num": 68
+      },
+      "VPB": {
+        "position": [
+          108.33,
+          204.0
+        ],
+        "layer_name": "nwell",
+        "layer_num": 64
+      },
+      "VNB": {
+        "position": [
+          108.33,
+          206.72
+        ],
+        "layer_name": "nwell",
+        "layer_num": 64
+      }
+    }
+  },
+  {
+    "instance_id": 11,
+    "cell_type": "sky130_fd_sc_hd__clkbuf_4",
+    "pins": {
+      "X": {
+        "position": [
+          110.17,
+          208.25
+        ],
+        "layer_name": "li1",
+        "layer_num": 67
+      },
+      "A": {
+        "position": [
+          111.55,
+          207.57
+        ],
+        "layer_name": "li1",
+        "layer_num": 67
+      },
+      "VGND": {
+        "position": [
+          112.01,
+          206.72
+        ],
+        "layer_name": "met1",
+        "layer_num": 68
+      },
+      "VPWR": {
+        "position": [
+          112.01,
+          209.44
+        ],
+        "layer_name": "met1",
+        "layer_num": 68
+      },
+      "VPB": {
+        "position": [
+          112.01,
+          209.44
+        ],
+        "layer_name": "nwell",
+        "layer_num": 64
+      },
+      "VNB": {
+        "position": [
+          112.01,
+          206.72
+        ],
+        "layer_name": "nwell",
+        "layer_num": 64
+      }
+    }
+  },
+  {
+    "instance_id": 12,
+    "cell_type": "sky130_fd_sc_hd__clkbuf_4",
+    "pins": {
+      "X": {
+        "position": [
+          148.35,
+          175.61
+        ],
+        "layer_name": "li1",
+        "layer_num": 67
+      },
+      "A": {
+        "position": [
+          146.97,
+          174.93
+        ],
+        "layer_name": "li1",
+        "layer_num": 67
+      },
+      "VGND": {
+        "position": [
+          146.51,
+          174.08
+        ],
+        "layer_name": "met1",
+        "layer_num": 68
+      },
+      "VPWR": {
+        "position": [
+          146.51,
+          176.8
+        ],
+        "layer_name": "met1",
+        "layer_num": 68
+      },
+      "VPB": {
+        "position": [
+          146.51,
+          176.8
+        ],
+        "layer_name": "nwell",
+        "layer_num": 64
+      },
+      "VNB": {
+        "position": [
+          146.51,
+          174.08
+        ],
+        "layer_name": "nwell",
+        "layer_num": 64
+      }
+    }
+  },
+  {
+    "instance_id": 13,
+    "cell_type": "sky130_fd_sc_hd__clkbuf_16",
+    "pins": {
+      "X": {
+        "position": [
+          112.93,
+          164.73
+        ],
+        "layer_name": "li1",
+        "layer_num": 67
+      },
+      "A": {
+        "position": [
+          105.11,
+          164.05
+        ],
+        "layer_name": "li1",
+        "layer_num": 67
+      },
+      "VGND": {
+        "position": [
+          105.11,
+          163.2
+        ],
+        "layer_name": "met1",
+        "layer_num": 68
+      },
+      "VPWR": {
+        "position": [
+          105.11,
+          165.92
+        ],
+        "layer_name": "met1",
+        "layer_num": 68
+      },
+      "VPB": {
+        "position": [
+          105.11,
+          165.92
+        ],
+        "layer_name": "nwell",
+        "layer_num": 64
+      },
+      "VNB": {
+        "position": [
+          105.11,
+          163.2
+        ],
+        "layer_name": "nwell",
+        "layer_num": 64
+      }
+    }
+  },
+  {
+    "instance_id": 14,
+    "cell_type": "sky130_fd_sc_hd__clkbuf_4",
+    "pins": {
+      "X": {
+        "position": [
+          102.81,
+          197.37
+        ],
+        "layer_name": "li1",
+        "layer_num": 67
+      },
+      "A": {
+        "position": [
+          101.43,
+          196.69
+        ],
+        "layer_name": "li1",
+        "layer_num": 67
+      },
+      "VGND": {
+        "position": [
+          100.97,
+          195.84
+        ],
+        "layer_name": "met1",
+        "layer_num": 68
+      },
+      "VPWR": {
+        "position": [
+          100.97,
+          198.56
+        ],
+        "layer_name": "met1",
+        "layer_num": 68
+      },
+      "VPB": {
+        "position": [
+          100.97,
+          198.56
+        ],
+        "layer_name": "nwell",
+        "layer_num": 64
+      },
+      "VNB": {
+        "position": [
+          100.97,
+          195.84
+        ],
+        "layer_name": "nwell",
+        "layer_num": 64
+      }
+    }
+  },
+  {
+    "instance_id": 15,
+    "cell_type": "sky130_fd_sc_hd__clkbuf_8",
+    "pins": {
+      "X": {
+        "position": [
+          104.65,
+          199.75
+        ],
+        "layer_name": "li1",
+        "layer_num": 67
+      },
+      "A": {
+        "position": [
+          100.97,
+          200.43
+        ],
+        "layer_name": "li1",
+        "layer_num": 67
+      },
+      "VGND": {
+        "position": [
+          100.97,
+          201.28
+        ],
+        "layer_name": "met1",
+        "layer_num": 68
+      },
+      "VPWR": {
+        "position": [
+          100.97,
+          198.56
+        ],
+        "layer_name": "met1",
+        "layer_num": 68
+      },
+      "VPB": {
+        "position": [
+          100.97,
+          198.56
+        ],
+        "layer_name": "nwell",
+        "layer_num": 64
+      },
+      "VNB": {
+        "position": [
+          100.97,
+          201.28
+        ],
+        "layer_name": "nwell",
+        "layer_num": 64
+      }
+    }
+  },
+  {
+    "instance_id": 16,
+    "cell_type": "sky130_fd_sc_hd__clkbuf_8",
+    "pins": {
+      "X": {
+        "position": [
+          160.77,
+          181.05
+        ],
+        "layer_name": "li1",
+        "layer_num": 67
+      },
+      "A": {
+        "position": [
+          157.09,
+          180.37
+        ],
+        "layer_name": "li1",
+        "layer_num": 67
+      },
+      "VGND": {
+        "position": [
+          157.09,
+          179.52
+        ],
+        "layer_name": "met1",
+        "layer_num": 68
+      },
+      "VPWR": {
+        "position": [
+          157.09,
+          182.24
+        ],
+        "layer_name": "met1",
+        "layer_num": 68
+      },
+      "VPB": {
+        "position": [
+          157.09,
+          182.24
+        ],
+        "layer_name": "nwell",
+        "layer_num": 64
+      },
+      "VNB": {
+        "position": [
+          157.09,
+          179.52
+        ],
+        "layer_name": "nwell",
+        "layer_num": 64
+      }
+    }
+  },
+  {
+    "instance_id": 17,
+    "cell_type": "sky130_fd_sc_hd__clkbuf_4",
+    "pins": {
+      "X": {
+        "position": [
+          156.17,
+          177.99
+        ],
+        "layer_name": "li1",
+        "layer_num": 67
+      },
+      "A": {
+        "position": [
+          157.55,
+          178.67
+        ],
+        "layer_name": "li1",
+        "layer_num": 67
+      },
+      "VGND": {
+        "position": [
+          158.01,
+          179.52
+        ],
+        "layer_name": "met1",
+        "layer_num": 68
+      },
+      "VPWR": {
+        "position": [
+          158.01,
+          176.8
+        ],
+        "layer_name": "met1",
+        "layer_num": 68
+      },
+      "VPB": {
+        "position": [
+          158.01,
+          176.8
+        ],
+        "layer_name": "nwell",
+        "layer_num": 64
+      },
+      "VNB": {
+        "position": [
+          158.01,
+          179.52
+        ],
+        "layer_name": "nwell",
+        "layer_num": 64
+      }
+    }
+  },
+  {
+    "instance_id": 18,
+    "cell_type": "sky130_fd_sc_hd__clkbuf_4",
+    "pins": {
+      "X": {
+        "position": [
+          75.67,
+          142.97
+        ],
+        "layer_name": "li1",
+        "layer_num": 67
+      },
+      "A": {
+        "position": [
+          77.05,
+          142.29
+        ],
+        "layer_name": "li1",
+        "layer_num": 67
+      },
+      "VGND": {
+        "position": [
+          77.51,
+          141.44
+        ],
+        "layer_name": "met1",
+        "layer_num": 68
+      },
+      "VPWR": {
+        "position": [
+          77.51,
+          144.16
+        ],
+        "layer_name": "met1",
+        "layer_num": 68
+      },
+      "VPB": {
+        "position": [
+          77.51,
+          144.16
+        ],
+        "layer_name": "nwell",
+        "layer_num": 64
+      },
+      "VNB": {
+        "position": [
+          77.51,
+          141.44
+        ],
+        "layer_name": "nwell",
+        "layer_num": 64
+      }
+    }
+  },
+  {
+    "instance_id": 19,
+    "cell_type": "sky130_fd_sc_hd__clkbuf_8",
+    "pins": {
+      "X": {
+        "position": [
+          76.59,
+          150.79
+        ],
+        "layer_name": "li1",
+        "layer_num": 67
+      },
+      "A": {
+        "position": [
+          72.91,
+          151.47
+        ],
+        "layer_name": "li1",
+        "layer_num": 67
+      },
+      "VGND": {
+        "position": [
+          72.91,
+          152.32
+        ],
+        "layer_name": "met1",
+        "layer_num": 68
+      },
+      "VPWR": {
+        "position": [
+          72.91,
+          149.6
+        ],
+        "layer_name": "met1",
+        "layer_num": 68
+      },
+      "VPB": {
+        "position": [
+          72.91,
+          149.6
+        ],
+        "layer_name": "nwell",
+        "layer_num": 64
+      },
+      "VNB": {
+        "position": [
+          72.91,
+          152.32
+        ],
+        "layer_name": "nwell",
+        "layer_num": 64
+      }
+    }
+  },
+  {
+    "instance_id": 20,
+    "cell_type": "sky130_fd_sc_hd__clkbuf_8",
+    "pins": {
+      "X": {
+        "position": [
+          61.41,
+          148.41
+        ],
+        "layer_name": "li1",
+        "layer_num": 67
+      },
+      "A": {
+        "position": [
+          65.09,
+          147.73
+        ],
+        "layer_name": "li1",
+        "layer_num": 67
+      },
+      "VGND": {
+        "position": [
+          65.09,
+          146.88
+        ],
+        "layer_name": "met1",
+        "layer_num": 68
+      },
+      "VPWR": {
+        "position": [
+          65.09,
+          149.6
+        ],
+        "layer_name": "met1",
+        "layer_num": 68
+      },
+      "VPB": {
+        "position": [
+          65.09,
+          149.6
+        ],
+        "layer_name": "nwell",
+        "layer_num": 64
+      },
+      "VNB": {
+        "position": [
+          65.09,
+          146.88
+        ],
+        "layer_name": "nwell",
+        "layer_num": 64
+      }
+    }
+  },
+  {
+    "instance_id": 21,
+    "cell_type": "sky130_fd_sc_hd__clkbuf_4",
+    "pins": {
+      "X": {
+        "position": [
+          59.57,
+          148.41
+        ],
+        "layer_name": "li1",
+        "layer_num": 67
+      },
+      "A": {
+        "position": [
+          58.19,
+          147.73
+        ],
+        "layer_name": "li1",
+        "layer_num": 67
+      },
+      "VGND": {
+        "position": [
+          57.73,
+          146.88
+        ],
+        "layer_name": "met1",
+        "layer_num": 68
+      },
+      "VPWR": {
+        "position": [
+          57.73,
+          149.6
+        ],
+        "layer_name": "met1",
+        "layer_num": 68
+      },
+      "VPB": {
+        "position": [
+          57.73,
+          149.6
+        ],
+        "layer_name": "nwell",
+        "layer_num": 64
+      },
+      "VNB": {
+        "position": [
+          57.73,
+          146.88
+        ],
+        "layer_name": "nwell",
+        "layer_num": 64
+      }
+    }
+  },
+  {
+    "instance_id": 22,
+    "cell_type": "sky130_fd_sc_hd__clkbuf_8",
+    "pins": {
+      "X": {
+        "position": [
+          77.05,
+          107.27
+        ],
+        "layer_name": "li1",
+        "layer_num": 67
+      },
+      "A": {
+        "position": [
+          73.37,
+          107.95
+        ],
+        "layer_name": "li1",
+        "layer_num": 67
+      },
+      "VGND": {
+        "position": [
+          73.37,
+          108.8
+        ],
+        "layer_name": "met1",
+        "layer_num": 68
+      },
+      "VPWR": {
+        "position": [
+          73.37,
+          106.08
+        ],
+        "layer_name": "met1",
+        "layer_num": 68
+      },
+      "VPB": {
+        "position": [
+          73.37,
+          106.08
+        ],
+        "layer_name": "nwell",
+        "layer_num": 64
+      },
+      "VNB": {
+        "position": [
+          73.37,
+          108.8
+        ],
+        "layer_name": "nwell",
+        "layer_num": 64
+      }
+    }
+  },
+  {
+    "instance_id": 23,
+    "cell_type": "sky130_fd_sc_hd__clkbuf_8",
+    "pins": {
+      "X": {
+        "position": [
+          87.17,
+          77.69
+        ],
+        "layer_name": "li1",
+        "layer_num": 67
+      },
+      "A": {
+        "position": [
+          90.85,
+          77.01
+        ],
+        "layer_name": "li1",
+        "layer_num": 67
+      },
+      "VGND": {
+        "position": [
+          90.85,
+          76.16
+        ],
+        "layer_name": "met1",
+        "layer_num": 68
+      },
+      "VPWR": {
+        "position": [
+          90.85,
+          78.88
+        ],
+        "layer_name": "met1",
+        "layer_num": 68
+      },
+      "VPB": {
+        "position": [
+          90.85,
+          78.88
+        ],
+        "layer_name": "nwell",
+        "layer_num": 64
+      },
+      "VNB": {
+        "position": [
+          90.85,
+          76.16
+        ],
+        "layer_name": "nwell",
+        "layer_num": 64
+      }
+    }
+  },
+  {
+    "instance_id": 24,
+    "cell_type": "sky130_fd_sc_hd__clkbuf_8",
+    "pins": {
+      "X": {
+        "position": [
+          89.93,
+          110.33
+        ],
+        "layer_name": "li1",
+        "layer_num": 67
+      },
+      "A": {
+        "position": [
+          93.61,
+          109.65
+        ],
+        "layer_name": "li1",
+        "layer_num": 67
+      },
+      "VGND": {
+        "position": [
+          93.61,
+          108.8
+        ],
+        "layer_name": "met1",
+        "layer_num": 68
+      },
+      "VPWR": {
+        "position": [
+          93.61,
+          111.52
+        ],
+        "layer_name": "met1",
+        "layer_num": 68
+      },
+      "VPB": {
+        "position": [
+          93.61,
+          111.52
+        ],
+        "layer_name": "nwell",
+        "layer_num": 64
+      },
+      "VNB": {
+        "position": [
+          93.61,
+          108.8
+        ],
+        "layer_name": "nwell",
+        "layer_num": 64
+      }
+    }
+  },
+  {
+    "instance_id": 25,
+    "cell_type": "sky130_fd_sc_hd__clkbuf_4",
+    "pins": {
+      "X": {
+        "position": [
+          86.71,
+          112.71
+        ],
+        "layer_name": "li1",
+        "layer_num": 67
+      },
+      "A": {
+        "position": [
+          85.33,
+          113.39
+        ],
+        "layer_name": "li1",
+        "layer_num": 67
+      },
+      "VGND": {
+        "position": [
+          84.87,
+          114.24
+        ],
+        "layer_name": "met1",
+        "layer_num": 68
+      },
+      "VPWR": {
+        "position": [
+          84.87,
+          111.52
+        ],
+        "layer_name": "met1",
+        "layer_num": 68
+      },
+      "VPB": {
+        "position": [
+          84.87,
+          111.52
+        ],
+        "layer_name": "nwell",
+        "layer_num": 64
+      },
+      "VNB": {
+        "position": [
+          84.87,
+          114.24
+        ],
+        "layer_name": "nwell",
+        "layer_num": 64
+      }
+    }
+  },
+  {
+    "instance_id": 26,
+    "cell_type": "sky130_fd_sc_hd__clkbuf_4",
+    "pins": {
+      "X": {
+        "position": [
+          85.33,
+          77.69
+        ],
+        "layer_name": "li1",
+        "layer_num": 67
+      },
+      "A": {
+        "position": [
+          83.95,
+          77.01
+        ],
+        "layer_name": "li1",
+        "layer_num": 67
+      },
+      "VGND": {
+        "position": [
+          83.49,
+          76.16
+        ],
+        "layer_name": "met1",
+        "layer_num": 68
+      },
+      "VPWR": {
+        "position": [
+          83.49,
+          78.88
+        ],
+        "layer_name": "met1",
+        "layer_num": 68
+      },
+      "VPB": {
+        "position": [
+          83.49,
+          78.88
+        ],
+        "layer_name": "nwell",
+        "layer_num": 64
+      },
+      "VNB": {
+        "position": [
+          83.49,
+          76.16
+        ],
+        "layer_name": "nwell",
+        "layer_num": 64
+      }
+    }
+  },
+  {
+    "instance_id": 27,
+    "cell_type": "sky130_fd_sc_hd__clkbuf_4",
+    "pins": {
+      "X": {
+        "position": [
+          72.45,
+          107.27
+        ],
+        "layer_name": "li1",
+        "layer_num": 67
+      },
+      "A": {
+        "position": [
+          71.07,
+          107.95
+        ],
+        "layer_name": "li1",
+        "layer_num": 67
+      },
+      "VGND": {
+        "position": [
+          70.61,
+          108.8
+        ],
+        "layer_name": "met1",
+        "layer_num": 68
+      },
+      "VPWR": {
+        "position": [
+          70.61,
+          106.08
+        ],
+        "layer_name": "met1",
+        "layer_num": 68
+      },
+      "VPB": {
+        "position": [
+          70.61,
+          106.08
+        ],
+        "layer_name": "nwell",
+        "layer_num": 64
+      },
+      "VNB": {
+        "position": [
+          70.61,
+          108.8
+        ],
+        "layer_name": "nwell",
+        "layer_num": 64
+      }
+    }
+  },
+  {
+    "instance_id": 28,
+    "cell_type": "sky130_fd_sc_hd__clkbuf_4",
+    "pins": {
+      "X": {
+        "position": [
+          125.81,
+          85.51
+        ],
+        "layer_name": "li1",
+        "layer_num": 67
+      },
+      "A": {
+        "position": [
+          124.43,
+          86.19
+        ],
+        "layer_name": "li1",
+        "layer_num": 67
+      },
+      "VGND": {
+        "position": [
+          123.97,
+          87.04
+        ],
+        "layer_name": "met1",
+        "layer_num": 68
+      },
+      "VPWR": {
+        "position": [
+          123.97,
+          84.32
+        ],
+        "layer_name": "met1",
+        "layer_num": 68
+      },
+      "VPB": {
+        "position": [
+          123.97,
+          84.32
+        ],
+        "layer_name": "nwell",
+        "layer_num": 64
+      },
+      "VNB": {
+        "position": [
+          123.97,
+          87.04
+        ],
+        "layer_name": "nwell",
+        "layer_num": 64
+      }
+    }
+  },
+  {
+    "instance_id": 29,
+    "cell_type": "sky130_fd_sc_hd__clkbuf_8",
+    "pins": {
+      "X": {
+        "position": [
+          122.13,
+          90.95
+        ],
+        "layer_name": "li1",
+        "layer_num": 67
+      },
+      "A": {
+        "position": [
+          125.81,
+          91.63
+        ],
+        "layer_name": "li1",
+        "layer_num": 67
+      },
+      "VGND": {
+        "position": [
+          125.81,
+          92.48
+        ],
+        "layer_name": "met1",
+        "layer_num": 68
+      },
+      "VPWR": {
+        "position": [
+          125.81,
+          89.76
+        ],
+        "layer_name": "met1",
+        "layer_num": 68
+      },
+      "VPB": {
+        "position": [
+          125.81,
+          89.76
+        ],
+        "layer_name": "nwell",
+        "layer_num": 64
+      },
+      "VNB": {
+        "position": [
+          125.81,
+          92.48
+        ],
+        "layer_name": "nwell",
+        "layer_num": 64
+      }
+    }
+  },
+  {
+    "instance_id": 30,
+    "cell_type": "sky130_fd_sc_hd__clkbuf_4",
+    "pins": {
+      "X": {
+        "position": [
+          128.11,
+          90.95
+        ],
+        "layer_name": "li1",
+        "layer_num": 67
+      },
+      "A": {
+        "position": [
+          126.73,
+          91.63
+        ],
+        "layer_name": "li1",
+        "layer_num": 67
+      },
+      "VGND": {
+        "position": [
+          126.27,
+          92.48
+        ],
+        "layer_name": "met1",
+        "layer_num": 68
+      },
+      "VPWR": {
+        "position": [
+          126.27,
+          89.76
+        ],
+        "layer_name": "met1",
+        "layer_num": 68
+      },
+      "VPB": {
+        "position": [
+          126.27,
+          89.76
+        ],
+        "layer_name": "nwell",
+        "layer_num": 64
+      },
+      "VNB": {
+        "position": [
+          126.27,
+          92.48
+        ],
+        "layer_name": "nwell",
+        "layer_num": 64
+      }
+    }
+  },
+  {
+    "instance_id": 31,
+    "cell_type": "sky130_fd_sc_hd__clkbuf_8",
+    "pins": {
+      "X": {
+        "position": [
+          122.59,
+          85.51
+        ],
+        "layer_name": "li1",
+        "layer_num": 67
+      },
+      "A": {
+        "position": [
+          118.91,
+          86.19
+        ],
+        "layer_name": "li1",
+        "layer_num": 67
+      },
+      "VGND": {
+        "position": [
+          118.91,
+          87.04
+        ],
+        "layer_name": "met1",
+        "layer_num": 68
+      },
+      "VPWR": {
+        "position": [
+          118.91,
+          84.32
+        ],
+        "layer_name": "met1",
+        "layer_num": 68
+      },
+      "VPB": {
+        "position": [
+          118.91,
+          84.32
+        ],
+        "layer_name": "nwell",
+        "layer_num": 64
+      },
+      "VNB": {
+        "position": [
+          118.91,
+          87.04
+        ],
+        "layer_name": "nwell",
+        "layer_num": 64
+      }
+    }
+  }
+]

@@ -1,0 +1,322 @@
+[
+  {
+    "instance_id": 0,
+    "cell_type": "sky130_fd_sc_hd__clkbuf_4",
+    "position": [
+      97.52,
+      70.72
+    ],
+    "rotation": 0.0,
+    "x_reflection": false
+  },
+  {
+    "instance_id": 1,
+    "cell_type": "sky130_fd_sc_hd__clkbuf_8",
+    "position": [
+      102.58,
+      76.16
+    ],
+    "rotation": 180.0,
+    "x_reflection": false
+  },
+  {
+    "instance_id": 2,
+    "cell_type": "sky130_fd_sc_hd__clkbuf_8",
+    "position": [
+      146.28,
+      223.04
+    ],
+    "rotation": 0.0,
+    "x_reflection": false
+  },
+  {
+    "instance_id": 3,
+    "cell_type": "sky130_fd_sc_hd__clkbuf_8",
+    "position": [
+      151.34,
+      179.52
+    ],
+    "rotation": 180.0,
+    "x_reflection": false
+  },
+  {
+    "instance_id": 4,
+    "cell_type": "sky130_fd_sc_hd__clkbuf_4",
+    "position": [
+      159.62,
+      223.04
+    ],
+    "rotation": 180.0,
+    "x_reflection": true
+  },
+  {
+    "instance_id": 5,
+    "cell_type": "sky130_fd_sc_hd__clkbuf_8",
+    "position": [
+      156.86,
+      228.48000000000002
+    ],
+    "rotation": 0.0,
+    "x_reflection": true
+  },
+  {
+    "instance_id": 6,
+    "cell_type": "sky130_fd_sc_hd__clkbuf_4",
+    "position": [
+      127.88000000000001,
+      250.24
+    ],
+    "rotation": 0.0,
+    "x_reflection": true
+  },
+  {
+    "instance_id": 7,
+    "cell_type": "sky130_fd_sc_hd__clkbuf_8",
+    "position": [
+      122.36,
+      250.24
+    ],
+    "rotation": 180.0,
+    "x_reflection": true
+  },
+  {
+    "instance_id": 8,
+    "cell_type": "sky130_fd_sc_hd__clkbuf_4",
+    "position": [
+      114.54,
+      250.24
+    ],
+    "rotation": 0.0,
+    "x_reflection": false
+  },
+  {
+    "instance_id": 9,
+    "cell_type": "sky130_fd_sc_hd__clkbuf_8",
+    "position": [
+      119.60000000000001,
+      250.24
+    ],
+    "rotation": 0.0,
+    "x_reflection": true
+  },
+  {
+    "instance_id": 10,
+    "cell_type": "sky130_fd_sc_hd__clkbuf_8",
+    "position": [
+      108.10000000000001,
+      206.72
+    ],
+    "rotation": 0.0,
+    "x_reflection": true
+  },
+  {
+    "instance_id": 11,
+    "cell_type": "sky130_fd_sc_hd__clkbuf_4",
+    "position": [
+      112.24000000000001,
+      206.72
+    ],
+    "rotation": 180.0,
+    "x_reflection": true
+  },
+  {
+    "instance_id": 12,
+    "cell_type": "sky130_fd_sc_hd__clkbuf_4",
+    "position": [
+      146.28,
+      174.08
+    ],
+    "rotation": 0.0,
+    "x_reflection": false
+  },
+  {
+    "instance_id": 13,
+    "cell_type": "sky130_fd_sc_hd__clkbuf_16",
+    "position": [
+      104.88,
+      163.20000000000002
+    ],
+    "rotation": 0.0,
+    "x_reflection": false
+  },
+  {
+    "instance_id": 14,
+    "cell_type": "sky130_fd_sc_hd__clkbuf_4",
+    "position": [
+      100.74000000000001,
+      195.84
+    ],
+    "rotation": 0.0,
+    "x_reflection": false
+  },
+  {
+    "instance_id": 15,
+    "cell_type": "sky130_fd_sc_hd__clkbuf_8",
+    "position": [
+      100.74000000000001,
+      201.28
+    ],
+    "rotation": 0.0,
+    "x_reflection": true
+  },
+  {
+    "instance_id": 16,
+    "cell_type": "sky130_fd_sc_hd__clkbuf_8",
+    "position": [
+      156.86,
+      179.52
+    ],
+    "rotation": 0.0,
+    "x_reflection": false
+  },
+  {
+    "instance_id": 17,
+    "cell_type": "sky130_fd_sc_hd__clkbuf_4",
+    "position": [
+      158.24,
+      179.52
+    ],
+    "rotation": 180.0,
+    "x_reflection": false
+  },
+  {
+    "instance_id": 18,
+    "cell_type": "sky130_fd_sc_hd__clkbuf_4",
+    "position": [
+      77.74,
+      141.44
+    ],
+    "rotation": 180.0,
+    "x_reflection": true
+  },
+  {
+    "instance_id": 19,
+    "cell_type": "sky130_fd_sc_hd__clkbuf_8",
+    "position": [
+      72.68,
+      152.32
+    ],
+    "rotation": 0.0,
+    "x_reflection": true
+  },
+  {
+    "instance_id": 20,
+    "cell_type": "sky130_fd_sc_hd__clkbuf_8",
+    "position": [
+      65.32000000000001,
+      146.88
+    ],
+    "rotation": 180.0,
+    "x_reflection": true
+  },
+  {
+    "instance_id": 21,
+    "cell_type": "sky130_fd_sc_hd__clkbuf_4",
+    "position": [
+      57.5,
+      146.88
+    ],
+    "rotation": 0.0,
+    "x_reflection": false
+  },
+  {
+    "instance_id": 22,
+    "cell_type": "sky130_fd_sc_hd__clkbuf_8",
+    "position": [
+      73.14,
+      108.8
+    ],
+    "rotation": 0.0,
+    "x_reflection": true
+  },
+  {
+    "instance_id": 23,
+    "cell_type": "sky130_fd_sc_hd__clkbuf_8",
+    "position": [
+      91.08,
+      76.16
+    ],
+    "rotation": 180.0,
+    "x_reflection": true
+  },
+  {
+    "instance_id": 24,
+    "cell_type": "sky130_fd_sc_hd__clkbuf_8",
+    "position": [
+      93.84,
+      108.8
+    ],
+    "rotation": 180.0,
+    "x_reflection": true
+  },
+  {
+    "instance_id": 25,
+    "cell_type": "sky130_fd_sc_hd__clkbuf_4",
+    "position": [
+      84.64,
+      114.24000000000001
+    ],
+    "rotation": 0.0,
+    "x_reflection": true
+  },
+  {
+    "instance_id": 26,
+    "cell_type": "sky130_fd_sc_hd__clkbuf_4",
+    "position": [
+      83.26,
+      76.16
+    ],
+    "rotation": 0.0,
+    "x_reflection": false
+  },
+  {
+    "instance_id": 27,
+    "cell_type": "sky130_fd_sc_hd__clkbuf_4",
+    "position": [
+      70.38,
+      108.8
+    ],
+    "rotation": 0.0,
+    "x_reflection": true
+  },
+  {
+    "instance_id": 28,
+    "cell_type": "sky130_fd_sc_hd__clkbuf_4",
+    "position": [
+      123.74000000000001,
+      87.04
+    ],
+    "rotation": 0.0,
+    "x_reflection": true
+  },
+  {
+    "instance_id": 29,
+    "cell_type": "sky130_fd_sc_hd__clkbuf_8",
+    "position": [
+      126.04,
+      92.48
+    ],
+    "rotation": 180.0,
+    "x_reflection": false
+  },
+  {
+    "instance_id": 30,
+    "cell_type": "sky130_fd_sc_hd__clkbuf_4",
+    "position": [
+      126.04,
+      92.48
+    ],
+    "rotation": 0.0,
+    "x_reflection": true
+  },
+  {
+    "instance_id": 31,
+    "cell_type": "sky130_fd_sc_hd__clkbuf_8",
+    "position": [
+      118.68,
+      87.04
+    ],
+    "rotation": 0.0,
+    "x_reflection": true
+  }
+]

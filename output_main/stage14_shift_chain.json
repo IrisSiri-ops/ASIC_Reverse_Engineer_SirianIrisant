@@ -1,0 +1,74 @@
+[
+  {
+    "stage": 1,
+    "mux_instance": "sky130_fd_sc_hd__mux2_1 (id=370)",
+    "flipflop_instance": "sky130_fd_sc_hd__dfrtp_2 (id=352)",
+    "q_net": "net_0157"
+  },
+  {
+    "stage": 2,
+    "mux_instance": "sky130_fd_sc_hd__mux2_1 (id=355)",
+    "flipflop_instance": "sky130_fd_sc_hd__dfrtp_2 (id=377)",
+    "q_net": "net_0350"
+  },
+  {
+    "stage": 3,
+    "mux_instance": "sky130_fd_sc_hd__mux2_1 (id=354)",
+    "flipflop_instance": "sky130_fd_sc_hd__dfrtp_2 (id=359)",
+    "q_net": "net_0375"
+  },
+  {
+    "stage": 4,
+    "mux_instance": "sky130_fd_sc_hd__mux2_1 (id=357)",
+    "flipflop_instance": "sky130_fd_sc_hd__dfrtp_2 (id=375)",
+    "q_net": "net_0376"
+  },
+  {
+    "stage": 5,
+    "mux_instance": "sky130_fd_sc_hd__mux2_1 (id=379)",
+    "flipflop_instance": "sky130_fd_sc_hd__dfrtp_2 (id=353)",
+    "q_net": "net_0291"
+  },
+  {
+    "stage": 6,
+    "mux_instance": "sky130_fd_sc_hd__mux2_1 (id=360)",
+    "flipflop_instance": "sky130_fd_sc_hd__dfrtp_2 (id=371)",
+    "q_net": "net_0223"
+  },
+  {
+    "stage": 7,
+    "mux_instance": "sky130_fd_sc_hd__mux2_1 (id=365)",
+    "flipflop_instance": "sky130_fd_sc_hd__dfrtp_2 (id=350)",
+    "q_net": "net_0314"
+  },
+  {
+    "stage": 8,
+    "mux_instance": "sky130_fd_sc_hd__mux2_1 (id=366)",
+    "flipflop_instance": "sky130_fd_sc_hd__dfrtp_2 (id=382)",
+    "q_net": "net_0315"
+  },
+  {
+    "stage": 9,
+    "mux_instance": "sky130_fd_sc_hd__mux2_1 (id=381)",
+    "flipflop_instance": "sky130_fd_sc_hd__dfrtp_2 (id=372)",
+    "q_net": "net_0377"
+  },
+  {
+    "stage": 10,
+    "mux_instance": "sky130_fd_sc_hd__mux2_1 (id=378)",
+    "flipflop_instance": "sky130_fd_sc_hd__dfrtp_2 (id=373)",
+    "q_net": "net_0179"
+  },
+  {
+    "stage": 11,
+    "mux_instance": "sky130_fd_sc_hd__mux2_1 (id=374)",
+    "flipflop_instance": "sky130_fd_sc_hd__dfrtp_2 (id=369)",
+    "q_net": "net_0111"
+  },
+  {
+    "stage": 12,
+    "mux_instance": "sky130_fd_sc_hd__mux2_1 (id=376)",
+    "flipflop_instance": "sky130_fd_sc_hd__dfrtp_2 (id=367)",
+    "q_net": "net_0403"
+  }
+]

@@ -1,0 +1,4946 @@
+{
+  "sky130_fd_sc_hd__a2111oi_2": {
+    "D1": {
+      "position": [
+        1.1500000000000001,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "C1": {
+      "position": [
+        1.61,
+        1.53
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A2": {
+      "position": [
+        4.37,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A1": {
+      "position": [
+        3.91,
+        1.53
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "Y": {
+      "position": [
+        2.99,
+        1.53
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "B1": {
+      "position": [
+        2.5300000000000002,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VGND": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPWR": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPB": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "VNB": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "a2111oi_2": {
+      "position": [
+        0.0,
+        0.0
+      ],
+      "layer_num": 83,
+      "layer_name": "text"
+    }
+  },
+  "sky130_fd_sc_hd__a211o_2": {
+    "X": {
+      "position": [
+        0.6950000000000001,
+        2.21
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A2": {
+      "position": [
+        1.605,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A1": {
+      "position": [
+        2.065,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "B1": {
+      "position": [
+        2.985,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "C1": {
+      "position": [
+        3.45,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VGND": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPWR": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPB": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "VNB": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "a211o_2": {
+      "position": [
+        0.0,
+        0.0
+      ],
+      "layer_num": 83,
+      "layer_name": "text"
+    }
+  },
+  "sky130_fd_sc_hd__a211oi_2": {
+    "A2": {
+      "position": [
+        3.91,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "C1": {
+      "position": [
+        0.21,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "B1": {
+      "position": [
+        1.59,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "Y": {
+      "position": [
+        0.67,
+        1.53
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A1": {
+      "position": [
+        2.5300000000000002,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VPWR": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VGND": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPB": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "VNB": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "a211oi_2": {
+      "position": [
+        0.0,
+        0.0
+      ],
+      "layer_num": 83,
+      "layer_name": "text"
+    }
+  },
+  "sky130_fd_sc_hd__a21bo_2": {
+    "B1_N": {
+      "position": [
+        1.155,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A2": {
+      "position": [
+        3.47,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "X": {
+      "position": [
+        0.23500000000000001,
+        1.87
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A1": {
+      "position": [
+        3.015,
+        1.53
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VGND": {
+      "position": [
+        0.23500000000000001,
+        0.0
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPWR": {
+      "position": [
+        0.23500000000000001,
+        2.72
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPB": {
+      "position": [
+        0.23500000000000001,
+        2.72
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "VNB": {
+      "position": [
+        0.23500000000000001,
+        0.0
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "a21bo_2": {
+      "position": [
+        0.0,
+        0.0
+      ],
+      "layer_num": 83,
+      "layer_name": "text"
+    }
+  },
+  "sky130_fd_sc_hd__a21boi_2": {
+    "B1_N": {
+      "position": [
+        0.23,
+        0.85
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A2": {
+      "position": [
+        3.475,
+        1.53
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A1": {
+      "position": [
+        3.015,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "Y": {
+      "position": [
+        1.635,
+        0.51
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VPWR": {
+      "position": [
+        0.23500000000000001,
+        2.72
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VGND": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPB": {
+      "position": [
+        0.23500000000000001,
+        2.72
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "VNB": {
+      "position": [
+        0.23500000000000001,
+        0.0
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "a21boi_2": {
+      "position": [
+        0.0,
+        0.0
+      ],
+      "layer_num": 83,
+      "layer_name": "text"
+    }
+  },
+  "sky130_fd_sc_hd__a21o_2": {
+    "X": {
+      "position": [
+        0.6950000000000001,
+        2.21
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "B1": {
+      "position": [
+        1.615,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A1": {
+      "position": [
+        2.535,
+        0.85
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A2": {
+      "position": [
+        2.99,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VGND": {
+      "position": [
+        0.23500000000000001,
+        0.0
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPWR": {
+      "position": [
+        0.23500000000000001,
+        2.72
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPB": {
+      "position": [
+        0.23500000000000001,
+        2.72
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "VNB": {
+      "position": [
+        0.23500000000000001,
+        0.0
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "a21o_2": {
+      "position": [
+        0.0,
+        0.0
+      ],
+      "layer_num": 83,
+      "layer_name": "text"
+    }
+  },
+  "sky130_fd_sc_hd__a21oi_2": {
+    "B1": {
+      "position": [
+        2.99,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A2": {
+      "position": [
+        0.23,
+        1.53
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A1": {
+      "position": [
+        1.1500000000000001,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "Y": {
+      "position": [
+        2.5300000000000002,
+        0.51
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VGND": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPWR": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPB": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "VNB": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "a21oi_2": {
+      "position": [
+        0.0,
+        0.0
+      ],
+      "layer_num": 83,
+      "layer_name": "text"
+    }
+  },
+  "sky130_fd_sc_hd__a221o_2": {
+    "X": {
+      "position": [
+        3.475,
+        0.51
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "B1": {
+      "position": [
+        1.615,
+        0.85
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A1": {
+      "position": [
+        2.095,
+        0.85
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "B2": {
+      "position": [
+        0.6950000000000001,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A2": {
+      "position": [
+        2.555,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VGND": {
+      "position": [
+        0.6950000000000001,
+        0.0
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VPWR": {
+      "position": [
+        0.6950000000000001,
+        2.72
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "C1": {
+      "position": [
+        0.23500000000000001,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VPB": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "VNB": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "a221o_2": {
+      "position": [
+        0.0,
+        0.0
+      ],
+      "layer_num": 83,
+      "layer_name": "text"
+    }
+  },
+  "sky130_fd_sc_hd__a221oi_2": {
+    "B2": {
+      "position": [
+        1.635,
+        1.53
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "C1": {
+      "position": [
+        0.23,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A2": {
+      "position": [
+        5.29,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A1": {
+      "position": [
+        4.3950000000000005,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "B1": {
+      "position": [
+        2.555,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "Y": {
+      "position": [
+        0.6950000000000001,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VGND": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPWR": {
+      "position": [
+        0.23500000000000001,
+        2.72
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPB": {
+      "position": [
+        0.23500000000000001,
+        2.72
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "VNB": {
+      "position": [
+        0.23500000000000001,
+        0.0
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "a221oi_2": {
+      "position": [
+        0.0,
+        0.0
+      ],
+      "layer_num": 83,
+      "layer_name": "text"
+    }
+  },
+  "sky130_fd_sc_hd__a22o_2": {
+    "A1": {
+      "position": [
+        1.635,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A2": {
+      "position": [
+        2.095,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "X": {
+      "position": [
+        3.015,
+        2.21
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "B2": {
+      "position": [
+        0.23500000000000001,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "B1": {
+      "position": [
+        1.155,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VPWR": {
+      "position": [
+        0.23500000000000001,
+        2.72
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VGND": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPB": {
+      "position": [
+        0.23500000000000001,
+        2.72
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "VNB": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "a22o_2": {
+      "position": [
+        0.0,
+        0.0
+      ],
+      "layer_num": 83,
+      "layer_name": "text"
+    }
+  },
+  "sky130_fd_sc_hd__a22oi_2": {
+    "A1": {
+      "position": [
+        2.555,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A2": {
+      "position": [
+        3.475,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "B1": {
+      "position": [
+        1.615,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "B2": {
+      "position": [
+        0.6950000000000001,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "Y": {
+      "position": [
+        2.075,
+        0.85
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VPWR": {
+      "position": [
+        0.6950000000000001,
+        2.72
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VGND": {
+      "position": [
+        0.6950000000000001,
+        0.0
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VPB": {
+      "position": [
+        0.23500000000000001,
+        2.72
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "VNB": {
+      "position": [
+        0.23500000000000001,
+        0.0
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "a22oi_2": {
+      "position": [
+        0.0,
+        0.0
+      ],
+      "layer_num": 83,
+      "layer_name": "text"
+    }
+  },
+  "sky130_fd_sc_hd__a311o_2": {
+    "X": {
+      "position": [
+        0.6950000000000001,
+        2.21
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "C1": {
+      "position": [
+        3.9050000000000002,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "B1": {
+      "position": [
+        2.995,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A1": {
+      "position": [
+        2.535,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A2": {
+      "position": [
+        2.075,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A3": {
+      "position": [
+        1.615,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VGND": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPWR": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPB": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "VNB": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "a311o_2": {
+      "position": [
+        0.0,
+        0.0
+      ],
+      "layer_num": 83,
+      "layer_name": "text"
+    }
+  },
+  "sky130_fd_sc_hd__a31o_2": {
+    "X": {
+      "position": [
+        0.23500000000000001,
+        0.85
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "B1": {
+      "position": [
+        2.99,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A3": {
+      "position": [
+        1.155,
+        0.85
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A1": {
+      "position": [
+        2.075,
+        0.51
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A2": {
+      "position": [
+        1.615,
+        0.51
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VGND": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPWR": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPB": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "VNB": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "a31o_2": {
+      "position": [
+        0.0,
+        0.0
+      ],
+      "layer_num": 83,
+      "layer_name": "text"
+    }
+  },
+  "sky130_fd_sc_hd__a31oi_2": {
+    "A3": {
+      "position": [
+        0.6950000000000001,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "B1": {
+      "position": [
+        3.9050000000000002,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "Y": {
+      "position": [
+        3.4450000000000003,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A1": {
+      "position": [
+        2.555,
+        1.53
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A2": {
+      "position": [
+        1.615,
+        1.53
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VPWR": {
+      "position": [
+        0.23500000000000001,
+        2.72
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VGND": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPB": {
+      "position": [
+        0.23500000000000001,
+        2.72
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "VNB": {
+      "position": [
+        0.23500000000000001,
+        0.0
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "a31oi_2": {
+      "position": [
+        0.0,
+        0.0
+      ],
+      "layer_num": 83,
+      "layer_name": "text"
+    }
+  },
+  "sky130_fd_sc_hd__a32o_2": {
+    "B2": {
+      "position": [
+        1.21,
+        0.85
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "X": {
+      "position": [
+        0.23500000000000001,
+        1.53
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A2": {
+      "position": [
+        3.45,
+        0.51
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A3": {
+      "position": [
+        3.91,
+        1.53
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A1": {
+      "position": [
+        2.99,
+        0.51
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "B1": {
+      "position": [
+        2.44,
+        1.53
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VGND": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPWR": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPB": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "VNB": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "a32o_2": {
+      "position": [
+        0.0,
+        0.0
+      ],
+      "layer_num": 83,
+      "layer_name": "text"
+    }
+  },
+  "sky130_fd_sc_hd__a41oi_2": {
+    "A4": {
+      "position": [
+        5.75,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A3": {
+      "position": [
+        3.93,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A2": {
+      "position": [
+        2.99,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "B1": {
+      "position": [
+        0.6900000000000001,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A1": {
+      "position": [
+        2.07,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "Y": {
+      "position": [
+        0.23,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VPWR": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VGND": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPB": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "VNB": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "a41oi_2": {
+      "position": [
+        0.0,
+        0.0
+      ],
+      "layer_num": 83,
+      "layer_name": "text"
+    }
+  },
+  "sky130_fd_sc_hd__and2_2": {
+    "A": {
+      "position": [
+        0.6900000000000001,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "X": {
+      "position": [
+        2.07,
+        0.85
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "B": {
+      "position": [
+        1.1500000000000001,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VPWR": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VGND": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPB": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "VNB": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "and2_2": {
+      "position": [
+        0.0,
+        0.0
+      ],
+      "layer_num": 83,
+      "layer_name": "text"
+    }
+  },
+  "sky130_fd_sc_hd__and2b_2": {
+    "X": {
+      "position": [
+        2.555,
+        2.21
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "B": {
+      "position": [
+        2.095,
+        1.87
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A_N": {
+      "position": [
+        0.23,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VPWR": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VGND": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPB": {
+      "position": [
+        0.23500000000000001,
+        2.72
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "VNB": {
+      "position": [
+        0.23500000000000001,
+        0.0
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "and2b_2": {
+      "position": [
+        0.0,
+        0.0
+      ],
+      "layer_num": 83,
+      "layer_name": "text"
+    }
+  },
+  "sky130_fd_sc_hd__and3_2": {
+    "B": {
+      "position": [
+        1.1500000000000001,
+        2.21
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "X": {
+      "position": [
+        2.07,
+        0.51
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A": {
+      "position": [
+        0.23,
+        0.85
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "C": {
+      "position": [
+        1.1500000000000001,
+        0.85
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VPWR": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VGND": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPB": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "VNB": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "and3_2": {
+      "position": [
+        0.0,
+        0.0
+      ],
+      "layer_num": 83,
+      "layer_name": "text"
+    }
+  },
+  "sky130_fd_sc_hd__and3b_2": {
+    "B": {
+      "position": [
+        2.095,
+        2.21
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "X": {
+      "position": [
+        3.005,
+        0.51
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A_N": {
+      "position": [
+        0.23,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "C": {
+      "position": [
+        2.095,
+        0.85
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VGND": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPWR": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPB": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "VNB": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "and3b_2": {
+      "position": [
+        0.0,
+        0.0
+      ],
+      "layer_num": 83,
+      "layer_name": "text"
+    }
+  },
+  "sky130_fd_sc_hd__and4_2": {
+    "X": {
+      "position": [
+        2.985,
+        2.21
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "C": {
+      "position": [
+        1.615,
+        0.51
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A": {
+      "position": [
+        0.23500000000000001,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "B": {
+      "position": [
+        1.155,
+        0.51
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "D": {
+      "position": [
+        2.075,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VGND": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPWR": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPB": {
+      "position": [
+        0.23500000000000001,
+        2.72
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "VNB": {
+      "position": [
+        0.23500000000000001,
+        0.0
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "and4_2": {
+      "position": [
+        0.0,
+        0.0
+      ],
+      "layer_num": 83,
+      "layer_name": "text"
+    }
+  },
+  "sky130_fd_sc_hd__and4b_2": {
+    "X": {
+      "position": [
+        3.9050000000000002,
+        0.85
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A_N": {
+      "position": [
+        0.23500000000000001,
+        1.53
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "D": {
+      "position": [
+        2.535,
+        1.53
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "C": {
+      "position": [
+        2.07,
+        0.51
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "B": {
+      "position": [
+        1.615,
+        0.51
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VPWR": {
+      "position": [
+        0.23500000000000001,
+        2.72
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VGND": {
+      "position": [
+        0.23500000000000001,
+        0.0
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPB": {
+      "position": [
+        0.23500000000000001,
+        2.72
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "VNB": {
+      "position": [
+        0.23500000000000001,
+        0.0
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "and4b_2": {
+      "position": [
+        0.0,
+        0.0
+      ],
+      "layer_num": 83,
+      "layer_name": "text"
+    }
+  },
+  "sky130_fd_sc_hd__and4bb_2": {
+    "A_N": {
+      "position": [
+        0.23500000000000001,
+        1.53
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "C": {
+      "position": [
+        2.995,
+        0.51
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "B_N": {
+      "position": [
+        3.9050000000000002,
+        0.85
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "X": {
+      "position": [
+        1.155,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "D": {
+      "position": [
+        3.455,
+        0.51
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VGND": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPWR": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPB": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "VNB": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "and4bb_2": {
+      "position": [
+        0.0,
+        0.0
+      ],
+      "layer_num": 83,
+      "layer_name": "text"
+    }
+  },
+  "sky130_fd_sc_hd__buf_2": {
+    "VPWR": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VGND": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "X": {
+      "position": [
+        1.145,
+        0.51
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A": {
+      "position": [
+        0.23,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VPB": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "VNB": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "buf_2": {
+      "position": [
+        0.0,
+        0.0
+      ],
+      "layer_num": 83,
+      "layer_name": "text"
+    }
+  },
+  "sky130_fd_sc_hd__conb_1": {
+    "LO": {
+      "position": [
+        1.055,
+        1.53
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "HI": {
+      "position": [
+        0.42,
+        1.21
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VGND": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPWR": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPB": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "VNB": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "conb_1": {
+      "position": [
+        0.0,
+        0.0
+      ],
+      "layer_num": 83,
+      "layer_name": "text"
+    },
+    "resistive_li1_ok": {
+      "position": [
+        0.225,
+        1.365
+      ],
+      "layer_num": 83,
+      "layer_name": "text"
+    },
+    "no_jumper_check": {
+      "position": [
+        0.93,
+        1.29
+      ],
+      "layer_num": 83,
+      "layer_name": "text"
+    }
+  },
+  "sky130_fd_sc_hd__dfrtp_2": {
+    "Q": {
+      "position": [
+        8.965,
+        2.21
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "RESET_B": {
+      "position": [
+        7.49,
+        0.85
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "D": {
+      "position": [
+        1.61,
+        1.53
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "CLK": {
+      "position": [
+        0.23500000000000001,
+        1.53
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VGND": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPWR": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPB": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "VNB": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "dfrtp_2": {
+      "position": [
+        0.0,
+        0.0
+      ],
+      "layer_num": 83,
+      "layer_name": "text"
+    }
+  },
+  "sky130_fd_sc_hd__dfstp_2": {
+    "Q": {
+      "position": [
+        9.43,
+        0.85
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "D": {
+      "position": [
+        2.07,
+        1.53
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VPWR": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "SET_B": {
+      "position": [
+        3.91,
+        0.85
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "CLK": {
+      "position": [
+        0.23,
+        1.53
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VGND": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VPB": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "VNB": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "dfstp_2": {
+      "position": [
+        0.0,
+        0.0
+      ],
+      "layer_num": 83,
+      "layer_name": "text"
+    }
+  },
+  "sky130_fd_sc_hd__dfxtp_2": {
+    "Q": {
+      "position": [
+        7.035,
+        0.51
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "CLK": {
+      "position": [
+        0.23,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "D": {
+      "position": [
+        1.5350000000000001,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VPWR": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VGND": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPB": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "VNB": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "dfxtp_2": {
+      "position": [
+        0.0,
+        0.0
+      ],
+      "layer_num": 83,
+      "layer_name": "text"
+    }
+  },
+  "sky130_fd_sc_hd__diode_2": {
+    "DIODE": {
+      "position": [
+        0.6900000000000001,
+        0.51
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VGND": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPWR": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPB": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "VNB": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "diode_2": {
+      "position": [
+        0.0,
+        0.0
+      ],
+      "layer_num": 83,
+      "layer_name": "text"
+    }
+  },
+  "sky130_fd_sc_hd__inv_2": {
+    "A": {
+      "position": [
+        0.23,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "Y": {
+      "position": [
+        0.6900000000000001,
+        0.85
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VPWR": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VGND": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPB": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "VNB": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "inv_2": {
+      "position": [
+        0.0,
+        0.0
+      ],
+      "layer_num": 83,
+      "layer_name": "text"
+    }
+  },
+  "sky130_fd_sc_hd__mux2_1": {
+    "S": {
+      "position": [
+        3.455,
+        1.53
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A1": {
+      "position": [
+        2.535,
+        0.85
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A0": {
+      "position": [
+        2.075,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "X": {
+      "position": [
+        0.23500000000000001,
+        0.51
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VGND": {
+      "position": [
+        0.23500000000000001,
+        0.0
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPWR": {
+      "position": [
+        0.23500000000000001,
+        2.72
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPB": {
+      "position": [
+        0.455,
+        2.72
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "VNB": {
+      "position": [
+        0.505,
+        0.0
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "mux2_1": {
+      "position": [
+        0.0,
+        0.0
+      ],
+      "layer_num": 83,
+      "layer_name": "text"
+    }
+  },
+  "sky130_fd_sc_hd__nand2_2": {
+    "Y": {
+      "position": [
+        2.075,
+        0.85
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A": {
+      "position": [
+        1.615,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "B": {
+      "position": [
+        0.6950000000000001,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VGND": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPWR": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPB": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "VNB": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "nand2_2": {
+      "position": [
+        0.0,
+        0.0
+      ],
+      "layer_num": 83,
+      "layer_name": "text"
+    }
+  },
+  "sky130_fd_sc_hd__nand2b_2": {
+    "B": {
+      "position": [
+        2.995,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "Y": {
+      "position": [
+        1.6400000000000001,
+        0.85
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A_N": {
+      "position": [
+        0.6950000000000001,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VGND": {
+      "position": [
+        0.23500000000000001,
+        0.0
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPWR": {
+      "position": [
+        0.23500000000000001,
+        2.72
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPB": {
+      "position": [
+        0.23500000000000001,
+        2.72
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "VNB": {
+      "position": [
+        0.23500000000000001,
+        0.0
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "nand2b_2": {
+      "position": [
+        0.0,
+        0.0
+      ],
+      "layer_num": 83,
+      "layer_name": "text"
+    }
+  },
+  "sky130_fd_sc_hd__nand3_2": {
+    "A": {
+      "position": [
+        0.23500000000000001,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "Y": {
+      "position": [
+        0.6950000000000001,
+        0.85
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "B": {
+      "position": [
+        1.155,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "C": {
+      "position": [
+        3.47,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VGND": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPWR": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPB": {
+      "position": [
+        0.23500000000000001,
+        2.72
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "VNB": {
+      "position": [
+        0.23500000000000001,
+        0.0
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "nand3_2": {
+      "position": [
+        0.0,
+        0.0
+      ],
+      "layer_num": 83,
+      "layer_name": "text"
+    }
+  },
+  "sky130_fd_sc_hd__nand3b_2": {
+    "Y": {
+      "position": [
+        3.935,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "C": {
+      "position": [
+        1.155,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A_N": {
+      "position": [
+        0.6950000000000001,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "B": {
+      "position": [
+        2.075,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VGND": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPWR": {
+      "position": [
+        0.23500000000000001,
+        2.72
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPB": {
+      "position": [
+        0.23500000000000001,
+        2.72
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "VNB": {
+      "position": [
+        0.23500000000000001,
+        0.0
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "nand3b_2": {
+      "position": [
+        0.0,
+        0.0
+      ],
+      "layer_num": 83,
+      "layer_name": "text"
+    }
+  },
+  "sky130_fd_sc_hd__nand4_2": {
+    "B": {
+      "position": [
+        2.995,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A": {
+      "position": [
+        4.37,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "Y": {
+      "position": [
+        2.535,
+        1.53
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "D": {
+      "position": [
+        0.6950000000000001,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "C": {
+      "position": [
+        1.615,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VGND": {
+      "position": [
+        0.23500000000000001,
+        0.0
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPWR": {
+      "position": [
+        0.23500000000000001,
+        2.72
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPB": {
+      "position": [
+        0.23500000000000001,
+        2.72
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "VNB": {
+      "position": [
+        0.23500000000000001,
+        0.0
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "nand4_2": {
+      "position": [
+        0.0,
+        0.0
+      ],
+      "layer_num": 83,
+      "layer_name": "text"
+    }
+  },
+  "sky130_fd_sc_hd__nor2_2": {
+    "B": {
+      "position": [
+        1.155,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "Y": {
+      "position": [
+        1.615,
+        1.87
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A": {
+      "position": [
+        0.23500000000000001,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VGND": {
+      "position": [
+        0.23500000000000001,
+        0.0
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPWR": {
+      "position": [
+        0.23500000000000001,
+        2.72
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPB": {
+      "position": [
+        0.23500000000000001,
+        2.72
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "VNB": {
+      "position": [
+        0.23500000000000001,
+        0.0
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "nor2_2": {
+      "position": [
+        0.0,
+        0.0
+      ],
+      "layer_num": 83,
+      "layer_name": "text"
+    }
+  },
+  "sky130_fd_sc_hd__nor3_2": {
+    "C": {
+      "position": [
+        2.555,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "Y": {
+      "position": [
+        3.475,
+        1.53
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A": {
+      "position": [
+        0.6950000000000001,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "B": {
+      "position": [
+        1.615,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VGND": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPWR": {
+      "position": [
+        0.23500000000000001,
+        2.72
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPB": {
+      "position": [
+        0.23500000000000001,
+        2.72
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "VNB": {
+      "position": [
+        0.23500000000000001,
+        0.0
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "nor3_2": {
+      "position": [
+        0.0,
+        0.0
+      ],
+      "layer_num": 83,
+      "layer_name": "text"
+    }
+  },
+  "sky130_fd_sc_hd__nor3b_2": {
+    "C_N": {
+      "position": [
+        4.37,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "Y": {
+      "position": [
+        3.015,
+        0.51
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A": {
+      "position": [
+        0.6950000000000001,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "B": {
+      "position": [
+        1.615,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VGND": {
+      "position": [
+        0.23500000000000001,
+        0.0
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPWR": {
+      "position": [
+        0.23500000000000001,
+        2.72
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPB": {
+      "position": [
+        0.23500000000000001,
+        2.72
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "VNB": {
+      "position": [
+        0.23500000000000001,
+        0.0
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "nor3b_2": {
+      "position": [
+        0.0,
+        0.0
+      ],
+      "layer_num": 83,
+      "layer_name": "text"
+    }
+  },
+  "sky130_fd_sc_hd__nor4_2": {
+    "C": {
+      "position": [
+        2.555,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "D": {
+      "position": [
+        3.475,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "Y": {
+      "position": [
+        4.3950000000000005,
+        0.85
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A": {
+      "position": [
+        0.6950000000000001,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "B": {
+      "position": [
+        1.615,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VGND": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPWR": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPB": {
+      "position": [
+        0.23500000000000001,
+        2.72
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "VNB": {
+      "position": [
+        0.23500000000000001,
+        0.0
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "nor4_2": {
+      "position": [
+        0.0,
+        0.0
+      ],
+      "layer_num": 83,
+      "layer_name": "text"
+    }
+  },
+  "sky130_fd_sc_hd__nor4b_2": {
+    "D_N": {
+      "position": [
+        5.29,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "Y": {
+      "position": [
+        3.91,
+        1.53
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "C": {
+      "position": [
+        2.99,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A": {
+      "position": [
+        0.675,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "B": {
+      "position": [
+        1.595,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VGND": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPWR": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPB": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "VNB": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "nor4b_2": {
+      "position": [
+        0.0,
+        0.0
+      ],
+      "layer_num": 83,
+      "layer_name": "text"
+    }
+  },
+  "sky130_fd_sc_hd__o211a_2": {
+    "C1": {
+      "position": [
+        0.23,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "B1": {
+      "position": [
+        1.155,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A2": {
+      "position": [
+        1.615,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A1": {
+      "position": [
+        2.075,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "X": {
+      "position": [
+        3.455,
+        0.85
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VPWR": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VGND": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPB": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "VNB": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "o211a_2": {
+      "position": [
+        0.0,
+        0.0
+      ],
+      "layer_num": 83,
+      "layer_name": "text"
+    }
+  },
+  "sky130_fd_sc_hd__o211ai_2": {
+    "A1": {
+      "position": [
+        4.37,
+        0.85
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A2": {
+      "position": [
+        2.5300000000000002,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "B1": {
+      "position": [
+        1.61,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "Y": {
+      "position": [
+        0.6900000000000001,
+        0.85
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "C1": {
+      "position": [
+        0.23,
+        1.53
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VGND": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPWR": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPB": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "VNB": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "o211ai_2": {
+      "position": [
+        0.0,
+        0.0
+      ],
+      "layer_num": 83,
+      "layer_name": "text"
+    }
+  },
+  "sky130_fd_sc_hd__o21a_2": {
+    "A1": {
+      "position": [
+        2.98,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "B1": {
+      "position": [
+        1.605,
+        1.53
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A2": {
+      "position": [
+        2.525,
+        1.87
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "X": {
+      "position": [
+        0.685,
+        2.21
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VGND": {
+      "position": [
+        0.23500000000000001,
+        0.0
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPWR": {
+      "position": [
+        0.23500000000000001,
+        2.72
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPB": {
+      "position": [
+        0.23500000000000001,
+        2.72
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "VNB": {
+      "position": [
+        0.23500000000000001,
+        0.0
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "o21a_2": {
+      "position": [
+        0.0,
+        0.0
+      ],
+      "layer_num": 83,
+      "layer_name": "text"
+    }
+  },
+  "sky130_fd_sc_hd__o21ai_2": {
+    "B1": {
+      "position": [
+        2.985,
+        0.85
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "Y": {
+      "position": [
+        2.525,
+        1.87
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A2": {
+      "position": [
+        1.145,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A1": {
+      "position": [
+        0.225,
+        1.53
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VGND": {
+      "position": [
+        0.225,
+        0.0
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPWR": {
+      "position": [
+        0.225,
+        2.72
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPB": {
+      "position": [
+        0.225,
+        2.72
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "VNB": {
+      "position": [
+        0.225,
+        0.0
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "o21ai_2": {
+      "position": [
+        0.0,
+        0.0
+      ],
+      "layer_num": 83,
+      "layer_name": "text"
+    }
+  },
+  "sky130_fd_sc_hd__o21ba_2": {
+    "B1_N": {
+      "position": [
+        0.6900000000000001,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A1": {
+      "position": [
+        3.45,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "X": {
+      "position": [
+        1.1500000000000001,
+        0.51
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A2": {
+      "position": [
+        2.5300000000000002,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VGND": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPWR": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPB": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "VNB": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "o21ba_2": {
+      "position": [
+        0.0,
+        0.0
+      ],
+      "layer_num": 83,
+      "layer_name": "text"
+    }
+  },
+  "sky130_fd_sc_hd__o21bai_2": {
+    "B1_N": {
+      "position": [
+        0.23,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "Y": {
+      "position": [
+        1.61,
+        1.53
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A2": {
+      "position": [
+        2.5300000000000002,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A1": {
+      "position": [
+        3.45,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VGND": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPWR": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPB": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "VNB": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "o21bai_2": {
+      "position": [
+        0.0,
+        0.0
+      ],
+      "layer_num": 83,
+      "layer_name": "text"
+    }
+  },
+  "sky130_fd_sc_hd__o221a_2": {
+    "B2": {
+      "position": [
+        1.585,
+        1.53
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A2": {
+      "position": [
+        2.065,
+        1.53
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "X": {
+      "position": [
+        3.9050000000000002,
+        1.87
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "B1": {
+      "position": [
+        1.125,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "C1": {
+      "position": [
+        0.23,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A1": {
+      "position": [
+        2.985,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VGND": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPWR": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPB": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "VNB": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "o221a_2": {
+      "position": [
+        0.0,
+        0.0
+      ],
+      "layer_num": 83,
+      "layer_name": "text"
+    }
+  },
+  "sky130_fd_sc_hd__o22a_2": {
+    "A2": {
+      "position": [
+        2.985,
+        1.87
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "X": {
+      "position": [
+        0.675,
+        2.21
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "B1": {
+      "position": [
+        1.605,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A1": {
+      "position": [
+        3.45,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "B2": {
+      "position": [
+        2.065,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VGND": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPWR": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPB": {
+      "position": [
+        0.215,
+        2.72
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "VNB": {
+      "position": [
+        0.215,
+        0.0
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "o22a_2": {
+      "position": [
+        0.0,
+        0.0
+      ],
+      "layer_num": 83,
+      "layer_name": "text"
+    }
+  },
+  "sky130_fd_sc_hd__o22ai_2": {
+    "B2": {
+      "position": [
+        1.615,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "B1": {
+      "position": [
+        0.6950000000000001,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "Y": {
+      "position": [
+        2.075,
+        1.53
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A1": {
+      "position": [
+        3.935,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A2": {
+      "position": [
+        3.015,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VGND": {
+      "position": [
+        0.23500000000000001,
+        0.0
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPWR": {
+      "position": [
+        0.23500000000000001,
+        2.72
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPB": {
+      "position": [
+        0.23500000000000001,
+        2.72
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "VNB": {
+      "position": [
+        0.23500000000000001,
+        0.0
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "o22ai_2": {
+      "position": [
+        0.0,
+        0.0
+      ],
+      "layer_num": 83,
+      "layer_name": "text"
+    }
+  },
+  "sky130_fd_sc_hd__o2bb2a_2": {
+    "A1_N": {
+      "position": [
+        1.6,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "X": {
+      "position": [
+        0.68,
+        2.21
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A2_N": {
+      "position": [
+        1.6,
+        0.51
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "B2": {
+      "position": [
+        3.44,
+        1.53
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "B1": {
+      "position": [
+        3.91,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VGND": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPWR": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPB": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "VNB": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "o2bb2a_2": {
+      "position": [
+        0.0,
+        0.0
+      ],
+      "layer_num": 83,
+      "layer_name": "text"
+    }
+  },
+  "sky130_fd_sc_hd__o311a_2": {
+    "X": {
+      "position": [
+        0.6950000000000001,
+        1.87
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A2": {
+      "position": [
+        2.065,
+        1.53
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A3": {
+      "position": [
+        2.525,
+        1.53
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A1": {
+      "position": [
+        1.615,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "B1": {
+      "position": [
+        2.985,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "C1": {
+      "position": [
+        3.9050000000000002,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VPWR": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VGND": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPB": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "VNB": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "o311a_2": {
+      "position": [
+        0.0,
+        0.0
+      ],
+      "layer_num": 83,
+      "layer_name": "text"
+    }
+  },
+  "sky130_fd_sc_hd__o31a_2": {
+    "X": {
+      "position": [
+        0.6950000000000001,
+        2.21
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A1": {
+      "position": [
+        1.615,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A2": {
+      "position": [
+        2.075,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "B1": {
+      "position": [
+        2.995,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A3": {
+      "position": [
+        2.535,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VGND": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPWR": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPB": {
+      "position": [
+        0.23500000000000001,
+        2.72
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "VNB": {
+      "position": [
+        0.23500000000000001,
+        0.0
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "o31a_2": {
+      "position": [
+        0.0,
+        0.0
+      ],
+      "layer_num": 83,
+      "layer_name": "text"
+    }
+  },
+  "sky130_fd_sc_hd__o31ai_2": {
+    "A1": {
+      "position": [
+        0.6950000000000001,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "Y": {
+      "position": [
+        4.375,
+        2.21
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "B1": {
+      "position": [
+        4.375,
+        0.85
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A3": {
+      "position": [
+        2.995,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A2": {
+      "position": [
+        2.075,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VGND": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPWR": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPB": {
+      "position": [
+        0.23500000000000001,
+        2.72
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "VNB": {
+      "position": [
+        0.23500000000000001,
+        0.0
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "o31ai_2": {
+      "position": [
+        0.0,
+        0.0
+      ],
+      "layer_num": 83,
+      "layer_name": "text"
+    }
+  },
+  "sky130_fd_sc_hd__o32a_2": {
+    "B1": {
+      "position": [
+        3.915,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "B2": {
+      "position": [
+        2.995,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A3": {
+      "position": [
+        2.535,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A2": {
+      "position": [
+        2.075,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A1": {
+      "position": [
+        1.615,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "X": {
+      "position": [
+        0.6950000000000001,
+        0.51
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VGND": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPWR": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPB": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "VNB": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "o32a_2": {
+      "position": [
+        0.0,
+        0.0
+      ],
+      "layer_num": 83,
+      "layer_name": "text"
+    }
+  },
+  "sky130_fd_sc_hd__o32ai_2": {
+    "A1": {
+      "position": [
+        5.755,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "B1": {
+      "position": [
+        1.155,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A2": {
+      "position": [
+        4.375,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A3": {
+      "position": [
+        2.535,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "Y": {
+      "position": [
+        2.075,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "B2": {
+      "position": [
+        0.6950000000000001,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VGND": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPWR": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPB": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "VNB": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "o32ai_2": {
+      "position": [
+        0.0,
+        0.0
+      ],
+      "layer_num": 83,
+      "layer_name": "text"
+    }
+  },
+  "sky130_fd_sc_hd__or2_2": {
+    "B": {
+      "position": [
+        0.23500000000000001,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "X": {
+      "position": [
+        2.075,
+        1.87
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A": {
+      "position": [
+        1.155,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VPWR": {
+      "position": [
+        0.23500000000000001,
+        2.72
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VGND": {
+      "position": [
+        0.23500000000000001,
+        0.0
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPB": {
+      "position": [
+        0.23500000000000001,
+        2.72
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "VNB": {
+      "position": [
+        0.23500000000000001,
+        0.0
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "or2_2": {
+      "position": [
+        0.0,
+        0.0
+      ],
+      "layer_num": 83,
+      "layer_name": "text"
+    }
+  },
+  "sky130_fd_sc_hd__or3_2": {
+    "A": {
+      "position": [
+        0.6900000000000001,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "B": {
+      "position": [
+        0.23,
+        2.21
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "X": {
+      "position": [
+        2.07,
+        1.87
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "C": {
+      "position": [
+        0.23,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VGND": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPWR": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPB": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "VNB": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "or3_2": {
+      "position": [
+        0.0,
+        0.0
+      ],
+      "layer_num": 83,
+      "layer_name": "text"
+    }
+  },
+  "sky130_fd_sc_hd__or3b_2": {
+    "A": {
+      "position": [
+        2.075,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "B": {
+      "position": [
+        2.535,
+        2.21
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "C_N": {
+      "position": [
+        0.23,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "X": {
+      "position": [
+        1.155,
+        0.51
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VPWR": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VGND": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPB": {
+      "position": [
+        0.23500000000000001,
+        2.72
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "VNB": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "or3b_2": {
+      "position": [
+        0.0,
+        0.0
+      ],
+      "layer_num": 83,
+      "layer_name": "text"
+    }
+  },
+  "sky130_fd_sc_hd__or4_2": {
+    "C": {
+      "position": [
+        1.155,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A": {
+      "position": [
+        1.615,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "X": {
+      "position": [
+        2.535,
+        1.87
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "B": {
+      "position": [
+        1.155,
+        2.21
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "D": {
+      "position": [
+        0.23500000000000001,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VPWR": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VGND": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPB": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "VNB": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "or4_2": {
+      "position": [
+        0.0,
+        0.0
+      ],
+      "layer_num": 83,
+      "layer_name": "text"
+    }
+  },
+  "sky130_fd_sc_hd__or4b_2": {
+    "C": {
+      "position": [
+        3.45,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A": {
+      "position": [
+        2.07,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "X": {
+      "position": [
+        1.155,
+        0.51
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "B": {
+      "position": [
+        2.5300000000000002,
+        2.21
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "D_N": {
+      "position": [
+        0.23,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VPWR": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VGND": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPB": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "VNB": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "or4b_2": {
+      "position": [
+        0.0,
+        0.0
+      ],
+      "layer_num": 83,
+      "layer_name": "text"
+    }
+  },
+  "sky130_fd_sc_hd__or4bb_2": {
+    "A": {
+      "position": [
+        3.015,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "X": {
+      "position": [
+        3.935,
+        1.87
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "B": {
+      "position": [
+        3.015,
+        2.21
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "D_N": {
+      "position": [
+        1.155,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "C_N": {
+      "position": [
+        0.6950000000000001,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VPWR": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VGND": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPB": {
+      "position": [
+        0.23500000000000001,
+        2.72
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "VNB": {
+      "position": [
+        0.23500000000000001,
+        0.0
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "or4bb_2": {
+      "position": [
+        0.0,
+        0.0
+      ],
+      "layer_num": 83,
+      "layer_name": "text"
+    }
+  },
+  "sky130_fd_sc_hd__xnor2_2": {
+    "Y": {
+      "position": [
+        5.79,
+        1.53
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A": {
+      "position": [
+        2.07,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "B": {
+      "position": [
+        1.1500000000000001,
+        1.53
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VGND": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPWR": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPB": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "VNB": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "xnor2_2": {
+      "position": [
+        0.0,
+        0.0
+      ],
+      "layer_num": 83,
+      "layer_name": "text"
+    }
+  },
+  "sky130_fd_sc_hd__xor2_2": {
+    "X": {
+      "position": [
+        5.75,
+        1.53
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "B": {
+      "position": [
+        3.91,
+        1.19
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "A": {
+      "position": [
+        1.1500000000000001,
+        1.53
+      ],
+      "layer_num": 67,
+      "layer_name": "li1"
+    },
+    "VPWR": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VGND": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 68,
+      "layer_name": "met1"
+    },
+    "VPB": {
+      "position": [
+        0.23,
+        2.72
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "VNB": {
+      "position": [
+        0.23,
+        0.0
+      ],
+      "layer_num": 64,
+      "layer_name": "nwell"
+    },
+    "xor2_2": {
+      "position": [
+        0.0,
+        0.0
+      ],
+      "layer_num": 83,
+      "layer_name": "text"
+    }
+  }
+}
