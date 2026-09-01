@@ -10,6 +10,7 @@ pipeline — every stage is self-implemented from public documentation and
 the layout itself.
 
 > Puzzle: [Can you reverse engineer an ASIC?](https://blog.janestreet.com/can-you-reverse-engineer-an-asic/) — Jane Street, 2026
+> Blog: [From Sand to the Stars](https://medium.com/@milindxsharma/jane-street-asic-reverse-engineering-puzzle-506cfb6c32a0_
 
 ---
 
