@@ -67,7 +67,6 @@ Raw GDS in, confirmed answer out, one command, ~28 seconds.
 Requires Python 3 and a C compiler (for `gdspy`'s native extension).
 
 ```bash
-git clone <this-repo>
 cd asic-puzzle-2026-master
 
 # Create and activate a virtual environment
